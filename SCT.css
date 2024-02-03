@@ -1,0 +1,93 @@
+*
+{
+    margin:0px;
+    padding:0px;
+}
+.intro{
+    background-color: #10024f;
+    border-radius:5%;
+    padding:20px;
+    margin-bottom:40px;
+    display: flex;
+}
+#harry
+{
+ justify-content:center;     
+ margin-left:200px; 
+}
+.header{
+    display:flex;
+   justify-content: center;
+    margin-bottom:5px;
+    margin-top: 5px;
+}
+#storyline{
+    text-align:center;
+    color: white;
+}
+#fonts
+{
+    font-family: 'Mystery Quest', system-ui;
+   
+}
+
+table{
+    
+    padding:40x;
+    width:40%;
+    text-align: center;
+    width:fixed;
+}
+
+.content
+{
+display:flex;
+justify-content:center;
+}
+
+ 
+
+th{
+background-color:#10024f;
+color:white;
+padding:4px;
+}
+
+td
+{
+padding:3px;
+}
+tr:hover{background-color: aliceblue;}
+#char
+{
+border-radius:50%;
+width:50px;
+height:50Px;
+}
+ .img{
+    display:flex;
+    margin-top:30px;
+    justify-content: center;
+    margin-bottom: 10px;
+ }
+#img1{
+ margin-right:25px;
+ border:solid 4px #10024f;
+ border-radius: 5px;
+}
+#img2{
+    margin-right:25px;
+    border:solid 4px #10024f;
+    border-radius: 5px;
+   }
+
+   #img4{
+    margin-right:25px;
+    border:solid 4px #10024f;
+    border-radius: 5px;
+   }
+   #img3{
+    margin-right:20;
+    border:solid 4px #10024f;
+    border-radius: 5px;
+   }
